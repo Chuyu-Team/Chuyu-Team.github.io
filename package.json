@@ -1,0 +1,17 @@
+{
+  "name": "Chuyu-Team.github.io",
+  "version": "1.0.0",
+  "description": "Chuyu Team Official Website",
+  "main": "index.js",
+  "repository": "https://github.com/Chuyu-Team/Chuyu-Team.github.io",
+  "author": "MouriNaruto <Mouri_Naruto@Outlook.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "@vuepress/plugin-pwa": "^1.8.2",
+    "vuepress": "^1.8.2"
+  },
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  }
+}
