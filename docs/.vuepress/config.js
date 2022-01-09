@@ -30,7 +30,7 @@
     lastUpdated: true,
     
     editLinks: true,
-    repo: 'MoespiritDevices/MoespiritDevices.github.io',
+    repo: 'Chuyu-Team/Chuyu-Team.github.io',
     docsDir: 'docs',
     docsBranch: 'main',
  
