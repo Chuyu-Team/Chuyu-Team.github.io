@@ -10,7 +10,7 @@ footer: Copyright © 2012-Present Chuyu Team. All rights reserved.
 
 ## DISM++
 
-- 最新稳定版本：[https://github.com/Chuyu-Team/Dism-Multi-language/releases/tag/v10.1.1002.2](https://github.com/Chuyu-Team/Dism-Multi-language/releases/tag/v10.1.1002.2)
+- 最新稳定版本：[https://github.com/Chuyu-Team/Dism-Multi-language/releases/latest](https://github.com/Chuyu-Team/Dism-Multi-language/releases/latest)
 
 ## 中文用户群
 
